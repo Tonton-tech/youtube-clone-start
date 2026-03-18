@@ -55,7 +55,7 @@ body{
 }
 
 #search{
-    height: 60%;
+    height: 50%;
 }
 
 #icon-search{
@@ -79,7 +79,7 @@ cursor: pointer;
     display: flex;
     flex-direction: column;
     background-image: url("/epicode_thumb.png");
-    background-repeat: repeat(6);
+    background-repeat: repeat(5);
     width: 400px;
     height: 300px;
 }
